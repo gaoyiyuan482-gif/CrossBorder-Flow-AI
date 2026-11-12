@@ -2,7 +2,9 @@
 
 > 面向新加坡与东南亚企业跨境付款的任务驱动操作工作台：让文件核对、人工审批、银行状态追踪与异常处理共享同一笔可解释、可审计的交易上下文。
 
-[**打开 Live Demo →**](https://crossborder-flow-ai.gaoyiyuan482.chatgpt.site)
+[![CI](https://github.com/gaoyiyuan482-gif/CrossBorder-Flow-AI/actions/workflows/ci.yml/badge.svg)](https://github.com/gaoyiyuan482-gif/CrossBorder-Flow-AI/actions/workflows/ci.yml)
+
+[**打开 Live Demo →**](https://crossborder-flow-ai.gaoyiyuan482.chatgpt.site) · [**查看 GitHub 源码 →**](https://github.com/gaoyiyuan482-gif/CrossBorder-Flow-AI)
 
 这是一个独立作品集技术 PoC，不是银行官方项目，不连接真实银行或 ERP，不处理真实客户资料，也不会让 AI 自动审批付款或修改收款账号。
 
