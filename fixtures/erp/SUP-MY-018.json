@@ -1,0 +1,10 @@
+{
+  "synthetic": true,
+  "supplier_id": "SUP-MY-018",
+  "purchase_order": "PO-MY-8820",
+  "supplier": "Peninsula Components Sdn Bhd",
+  "amount": 48000,
+  "currency": "MYR",
+  "beneficiary_account": "8812",
+  "source": "MOCK_ERP_API"
+}

@@ -1,0 +1,8 @@
+{
+  "event_id": "EVT-5821",
+  "payment_id": "PAY-2026-0482",
+  "event_type": "PAYMENT_DELAYED",
+  "reason": "BANK_REVIEW_PENDING",
+  "source": "MOCK_BANK_API",
+  "synthetic": true
+}

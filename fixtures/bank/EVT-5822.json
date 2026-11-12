@@ -1,0 +1,7 @@
+{
+  "event_id": "EVT-5822",
+  "payment_id": "PAY-2026-0482",
+  "event_type": "PAYMENT_COMPLETED",
+  "source": "MOCK_BANK_API",
+  "synthetic": true
+}

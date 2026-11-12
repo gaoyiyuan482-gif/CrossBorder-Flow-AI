@@ -1,0 +1,7 @@
+Invoice: INV-MY-2048
+Supplier: Peninsula Components Sdn Bhd
+Amount: 48,000
+Currency: MYR
+Beneficiary Account: 8821
+Issued: 10 Nov 2026
+Synthetic Fixture: true
